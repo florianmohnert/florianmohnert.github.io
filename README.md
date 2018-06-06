@@ -9,8 +9,8 @@ My research interests lie at the intersection of machine learning and cognitive 
 
 
 ### Projects
-- **Analyzing how LSTM language models accomplish tracking long term syntactic dependencies** (_Institute for Logic, Language and computation, UvA_ )
-- **Graphical models for exploratory analyses in social psychology** (_Department of Statistics, RUG_)
+- **Analyzing how LSTM language models accomplish tracking long term syntactic dependencies** @ _Institute for Logic, Language and computation, UvA_ )
+- **Graphical models for exploratory analyses in social psychology** @ _Department of Statistics, RUG_
 
 ### Contact
 
