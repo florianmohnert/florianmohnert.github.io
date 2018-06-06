@@ -1,9 +1,5 @@
 ## Hi there!
 
-You can use the [editor on GitHub](https://github.com/florianmohnert/florianmohnert.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-link example: [Artificial Intelligence](http://gss.uva.nl/content/masters/artificial-intelligence/artificial-intelligence.html/) 
-
 ### About me
 Currently, I am a student in the [Artificial Intelligence Master's](http://gss.uva.nl/content/masters/artificial-intelligence/artificial-intelligence.html/) program at the [University of Amsterdam](http://www.uva.nl/en/home). Previously, I graduated with a BSc. in Psychology from the [University of Groningen](https://www.rug.nl/?lang=en) with a focus on cognitve psychology and statistical methods. Moreover, I obtained a Minor in mathematics and computer science that I primarily completed during my exchange semester at the [University of Hong Kong](https://www.hku.hk/). I wrote my bachelor thesis on how probabalisitc graphical models can be used in social psychology to explore datasets that aim at testing mutliple psychological theories. Originally, I am from Hamburg in Germany.
 
