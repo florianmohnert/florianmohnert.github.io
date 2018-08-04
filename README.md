@@ -15,4 +15,4 @@ My research interests lie at the intersection of machine learning and cognitive 
 
 ### Contact
 
-Get in touch at _mail <at> florian <minus> mohnert <dot> de_ 
+Get in touch at _mail at florian minus mohnert dot de_ 
