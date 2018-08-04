@@ -12,6 +12,7 @@ My research interests lie at the intersection of machine learning and cognitive 
 - **Analyzing how LSTM language models accomplish tracking long term syntactic dependencies** @ _Institute for Logic, Language and computation, UvA_ 
 - **Probabalistic Graphical models for exploratory analyses in social psychology** @ _Department of Statistics, RUG_
 
+
 ### Contact
 
-Get in touch at _mail@florian-mohnert.de_ 
+Get in touch at _mail <at> florian <minus> mohnert <dot> de_ 
