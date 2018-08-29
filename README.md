@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am a Master's student in [Artificial Intelligence](http://gss.uva.nl/content/masters/artificial-intelligence/artificial-intelligence.html/) at the [University of Amsterdam](http://www.uva.nl/en/home). During this summer I am interning at the [Max Plank Institute for Intelligent Systems](https://www.is.mpg.de/) in the [Rationality Enhancement Group](https://sites.google.com/site/falklieder/) where I am supervised by Dr. Falk Lieder. 
+I am a Master's student in [Artificial Intelligence](http://gss.uva.nl/content/masters/artificial-intelligence/artificial-intelligence.html/) at the [University of Amsterdam](http://www.uva.nl/en/home). At present, I am interning at the [Max Plank Institute for Intelligent Systems](https://www.is.mpg.de/) in the [Rationality Enhancement Group](https://sites.google.com/site/falklieder/) where I am supervised by Dr. Falk Lieder. 
 
 My research interests lie at the intersection of machine learning and cognitive science. I am inspired by computational models of human learning and decision making not just to understand the human mind but also to create more powerful AI systems. For example, my current project aims at modelling human decision making in risky choice scenarios with metacognitive reinforement learning.
 
