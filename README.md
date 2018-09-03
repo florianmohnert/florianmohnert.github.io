@@ -10,7 +10,7 @@ I started my academic journey with a BSc. in Psychology from the [University of 
 
 ### Publications
 
-[View my publication here](./publications.html).
+[View my publication here](./publications.html)
 
 
 ### Contact
