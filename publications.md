@@ -12,9 +12,4 @@ layout: default
 
 
 
-Co-Authors: Florian Mohnert, Lise Jans, Daniel Sloot, Casper Albers, Linda Steg
-
-
-
-
 [back](./)
