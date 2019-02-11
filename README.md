@@ -6,7 +6,7 @@ My research interests lie at the intersection of machine learning and computatio
 
 For example my current project on goal setting for bounded agents, aims at understanding the mechanisms behind human goal setting and therewith building AI systems with improved hierarchical planning capabilities. In another project I'm modelling human decision making in risky choice scenarios with resource rational adaptive toolbox models.
 
-During the first year of my Master in Amsterdam I also developed a keen interest in using methods from Machine Learning for Natural Language Processing. In particular, I worked on a joint project tackling the question how language models based on Recurrent Neural Networks accomplish tracking long term hierachical dependencies.
+During the first year of my Master in Amsterdam I developed a keen interest in Natural Language Processing. In particular, I worked on a project tackling the question of how language models based on Recurrent Neural Networks accomplish tracking long term hierarchical dependencies. 
 
 I am also interested in making future AI systems more interactive, such that AI systems are not just passively learning from datasets but learn to understand human intends and goals by asking the right questions and receiving feedback from humans. Ultimately, such AI systems should be used to enhance human communication for example by detecting flaws in human reasoning.
 
