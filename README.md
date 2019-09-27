@@ -4,7 +4,7 @@ I am a Master's student in [Artificial Intelligence](http://gss.uva.nl/content/m
 
 My research interests lie at the intersection of machine learning and computational cognitive science. Inspired by the computational efficiency of the human mind I am building computational models of human planning, decision making and language not just to understand the human mind but also to create more powerful AI systems. 
 
-For example my current project on goal setting for bounded agents, aims at understanding the mechanisms behind human goal setting and therewith building AI systems with improved hierarchical planning capabilities. Another current project of mine involves modelling human decision making in risky choice scenarios with resource rational adaptive toolbox models.
+For example my current project on goal setting for bounded agents, aims at understanding the mechanisms behind human goal setting and therewith building AI systems with improved hierarchical planning capabilities. Another current project of mine involves modelling human decision making in risky choice scenarios with meta-cognitive Reinforcement Learning.
 
 During the first year of my Master in Amsterdam I developed a keen interest in Natural Language Processing. In particular, I worked on a project tackling the question of how language models based on Recurrent Neural Networks accomplish tracking long term hierarchical dependencies. 
 
