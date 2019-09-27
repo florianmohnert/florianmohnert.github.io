@@ -4,7 +4,7 @@ layout: default
 
 ## Publications
 
-* Testing Computational Models of Human Goal Pursuit. Florian Mohnert, Mateo Tosic, Falk Lieder, 2019. _To appear in Proceedings of the Conference on Cognitive Computational Neuroscience (CCN)._
+* Testing Computational Models of Human Goal Pursuit. Florian Mohnert, Mateo Tosic, Falk Lieder, 2019. _In Proceedings of the 3rd Annual Conference on Cognitive Computational Neuroscience (CCN)._
 
 * Whats in the Adaptive Toolbox and How Do People Choose From It? Rational Models of Strategy Selection in Risky Choice. Florian Mohnert, Thorsten Pachur and Falk Lieder, 2019. _In Proceedings of the 41st Annual Meeting of the Cognitive Science Society (CogSci)._
 
